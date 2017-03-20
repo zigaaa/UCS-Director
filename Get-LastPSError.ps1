@@ -11,7 +11,7 @@ try {
 
 $StartingLine = ($LogContent |
     Select-String $ErrorString |
-    Select-Object -First 1).LineNumber - 1
+    Select-Object -Last 1).LineNumber - 1
 
 $ErrorLine = $StartingLine
 
