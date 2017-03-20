@@ -37,5 +37,12 @@ ${COMMENTS}
 ${CATALOG_NAME}
 ${CLOUD_NAME}
 
+# If you use as a post-deployment-workflow in a standard catalog item
+
 ${VMProvisionEngineConfig_235.VM_CPU_Size}
+${VMProvisionEngineConfig_235.VM_Cores_Per_CPU}
 ${VMProvisionEngineConfig_235.VM_Memory_Size}
+${VMProvisionEngineConfig_235.VM_Mac}
+${VMProvisionEngineConfig_235.VM_Nics_Count}
+${VMProvisionEngineConfig_235.VM_NIC1_ADAPTER_NAME}
+${VMProvisionEngineConfig_235.VM_NIC1_PortGroup_Name}
