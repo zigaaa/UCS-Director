@@ -46,3 +46,4 @@ ${VMProvisionEngineConfig_235.VM_Mac}
 ${VMProvisionEngineConfig_235.VM_Nics_Count}
 ${VMProvisionEngineConfig_235.VM_NIC1_ADAPTER_NAME}
 ${VMProvisionEngineConfig_235.VM_NIC1_PortGroup_Name}
+${VMProvisionEngineConfig_235.VM_IPv4_Address}
